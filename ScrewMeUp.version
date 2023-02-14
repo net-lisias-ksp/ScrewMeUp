@@ -6,9 +6,9 @@
 	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/ScrewMeUp/master/CHANGES.md",
 
 	"VERSION":{
-		"MAJOR":0,
-		"MINOR":0,
-		"PATCH":0,
+		"MAJOR":6,
+		"MINOR":6,
+		"PATCH":6,
 		"BUILD":0
 		},
 	"KSP_VERSION_MIN":{
