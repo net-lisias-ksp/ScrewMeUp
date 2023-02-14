@@ -47,7 +47,11 @@ Recommended Sound Track:
 
 ## Description
 
-`ScrewMeUp` injects two `PartModule`s into our old friend `strutCube` (see this [issue](https://github.com/net-lisias-ksp/TweakScale/issues/288) for the whole story, and this Forum's [post](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-21111r2-2023-0116/&do=findComment&comment=4231609) for the reasonsing)
+`ScrewMeUp` injects two `PartModule`s into our old friend `strutCube` (see this [issue](https://github.com/net-lisias-ksp/TweakScale/issues/288) for the whole story, and this Forum's [post](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-21111r2-2023-0116/&do=findComment&comment=4231609) for the reasoning).
+
+With this piece of crap installed, you will be able to inject `NullReferenceExceptions` into Unity's and/or KSP's Life Cycle, and study the effects on the game.
+
+Be warned: you will be **Royally Screwed** on some key points of the game. **DO NOT** use this on any valuable savegame, you had been warned.
 
 
 ## Installation
