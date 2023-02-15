@@ -25,7 +25,7 @@ Recommended Sound Track:
 > I've been running hot<br/>
 > You got me wrecking gonna blow my top<br/>
 > If you screws me up<br/>
-> If you screws me up, I'll screws stop<br/>
+> If you screws me up, I'll never stop<br/>
 > Never stop, never stop, never stop<br/>
 >
 > You make a grown man cry<br/>
